@@ -1,4 +1,4 @@
-# espn-scraper
+# ESPN scraping tool
 
 Simple python script to scrape data from espn to grab robust team data
 
