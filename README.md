@@ -6,8 +6,13 @@ Simple python script to scrape data from espn to grab robust team data
 
 I created this project to help further my knowledge of python and its large quantity of libraries. This project allowed me to experiment with scraping data from websites using the requests and beautifulsoup libraries.
 
-## Requirements
+## Installation
 
-To use this program, install the requirements by typing the following commands into the terminal:
-source venv/bin/activate
-pip install requirements.txt
+Install the requirements
+```
+pip install -r requirements.txt
+```
+Run the application
+```
+python app.py
+```
